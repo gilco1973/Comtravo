@@ -1,0 +1,25 @@
+.content {
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.nav {
+  padding: 40px 0;
+}
+
+.button {
+  background: #00b4ea;
+  color: #fff;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 800;
+  padding: 8px 20px;
+  text-transform: uppercase;
+  width: 300px;
+}
+
+.link {
+  color: #00b4ea;
+  margin-left: 20px;
+}

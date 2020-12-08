@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "email": "user0@comtravo.com"
+    },
+    {
+      "id": 1,
+      "email": "user1@comtravo.com"
+    }
+  ]
+}
